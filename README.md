@@ -1,6 +1,6 @@
 # Olá! 😃
 
-Oi! 👋🏽 Seja bem vindo(a) ao meu Github. Meu nome é Larissa e sou estudante de Engenharia da Computação 👩🏽‍💻
+Oi! 👋🏽 Seja bem vindo(a) ao meu Github. Meu nome é Larissa e sou estudante de Engenharia de Software 👩🏽‍💻
 
 🔸 Atualmente utilizo o meu Github para compartilhar meus projetos da faculdade.
 
