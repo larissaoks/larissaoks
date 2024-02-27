@@ -5,9 +5,10 @@ Oi! 👋🏽 Seja bem vindo(a) ao meu Github. Meu nome é Larissa e sou estudant
 🔸 Atualmente utilizo o meu Github para compartilhar meus projetos da faculdade.
 
 - (🏝) Sou do Brasil e carioca da gema
-- (:eye::bee:**M**) Estagiária de Suporte na IBM
+- (👁️🐝Ⓜ️) Estagiária na IBM
 - (🤣) Amo assistir comédia nacional
-- (💖) Ao mesmo tempo que me estresso com a tecnologia, eu amo desenvolvê-la 
+- (👩🏽‍💻) Meu foco é em back-end mas também atuo como full-stack
+- (💖) Minhas stacks favoritas são NodeJS e Java 
 
 <div>
 <a href="https://github.com/larissaoks">
